@@ -1,7 +1,7 @@
 import "./About.css";
-import ContributorSection from './ContributorSection';
+
 import React, { useEffect } from "react";
-import { Link } from "react-router-dom";
+
 import tick from './tick.png';
 import archery from './archery.png';
 import gun from './rightimg3.png'
