@@ -14,7 +14,7 @@ const ModelViewer = ({
   cart,
   updateQuantity,  // Added updateQuantity as a prop
 }) => {
-  const [selectedVariant, setSelectedVariant] = useState("default");
+  // const [selectedVariant, setSelectedVariant] = useState("default");
   const [display, setDisplay] = useState(false);
   const [ARSupported, setARSupported] = useState(false);
   const [annotate, setAnnotate] = useState(false);

@@ -10,7 +10,7 @@ const SignUp = () => {
     password: "",
     confirm_password: "",
   });
-  const navigate = useNavigate(); // Hook for navigation after successful sign-up
+  // const navigate = useNavigate(); // Hook for navigation after successful sign-up
 
   // Handle input change
   const handleOnChange = (e) => {

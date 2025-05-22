@@ -2,9 +2,9 @@ import React from "react";
 import "./Cart.css";
 
 const Cart = ({ cart, removeFromCart, updateQuantity }) => {
-  const calculateSubtotal = () => {
-    return cart.reduce((total, item) => total + item.price * item.quantity, 0);
-  };
+  // const calculateSubtotal = () => {
+  //   return cart.reduce((total, item) => total + item.price * item.quantity, 0);
+  // };
 
   return (
     <div className="cart-page">
