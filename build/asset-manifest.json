@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c9341d1.css",
+    "main.js": "/static/js/main.0a337d6a.js",
+    "static/media/prob2.jpg": "/static/media/prob2.f9c3ac3ce896cd97b55d.jpg",
+    "static/media/pot.glb": "/static/media/pot.3058ceaef802dd68a67c.glb",
+    "static/media/car.usdz": "/static/media/car.c1ae3b3b3ad821913c28.usdz",
+    "static/media/car.glb": "/static/media/car.34c134a1368cdfadf86c.glb",
+    "static/media/Painting.usdz": "/static/media/Painting.5af071606bac66a79d83.usdz",
+    "static/media/OfficeChair.glb": "/static/media/OfficeChair.7365db83884290d35a94.glb",
+    "static/media/sheenchair.usdz": "/static/media/sheenchair.70a86a42ce3305c90fcc.usdz",
+    "static/media/sheenchair.glb": "/static/media/sheenchair.cccef135a68bd6991cb1.glb",
+    "static/media/Painting.glb": "/static/media/Painting.795b80f5713e1e052bac.glb",
+    "static/media/pot.usdz": "/static/media/pot.b6ba0465a031fa9f21bc.usdz",
+    "static/media/prob1.jpg": "/static/media/prob1.a96728224c4420adb1cf.jpg",
+    "static/media/Car1.glb": "/static/media/Car1.97f0100d04aac686b48c.glb",
+    "static/media/Car1.usdz": "/static/media/Car1.a4176901a4b49cc2f32b.usdz",
+    "static/media/bg5.jpg": "/static/media/bg5.fbdc992775d0c0221c95.jpg",
+    "static/media/OfficeChair.usdz": "/static/media/OfficeChair.1461ca197c0df90c5847.usdz",
+    "static/media/rightimg3.png": "/static/media/rightimg3.d846ff2832459c837f4b.png",
+    "static/media/bg2.jpg": "/static/media/bg2.8efcb46000d9847d2e75.jpg",
+    "index.html": "/index.html",
+    "main.3c9341d1.css.map": "/static/css/main.3c9341d1.css.map",
+    "main.0a337d6a.js.map": "/static/js/main.0a337d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9341d1.css",
+    "static/js/main.0a337d6a.js"
+  ]
+}
