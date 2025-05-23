@@ -27,7 +27,7 @@ const Header = () => {
               onClick={() => showMobileSidebar && setShowMobileSidebar(false)}
               className="project-title"
             >
-              AR Ecommerce
+             VisioMart
             </Link>
           </h3>
           <div
