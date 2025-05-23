@@ -27,7 +27,7 @@ const Header = () => {
               onClick={() => showMobileSidebar && setShowMobileSidebar(false)}
               className="project-title"
             >
-              AR Webstore
+              AR Ecommerce
             </Link>
           </h3>
           <div
